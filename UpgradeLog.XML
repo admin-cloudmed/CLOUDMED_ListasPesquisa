@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ListasPesquisa">
+</Property><Property Name="Solution File" Value="D:\inetpub\wwwroot\listaspesquisa\ListasPesquisa.sln">
+</Property><Property Name="User Options File" Value="D:\inetpub\wwwroot\listaspesquisa\ListasPesquisa.suo">
+</Property><Property Name="Date" Value="segunda-feira, 26 de setembro de 2011">
+</Property><Property Name="Time" Value="17:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ListasPesquisa.sln" Description="File successfully backed up as C:\Users\JEAN\Documents\Visual Studio 2010\Projects\ListasPesquisa\Backup\ListasPesquisa.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ListasPesquisa.suo" Description="File successfully backed up as C:\Users\JEAN\Documents\Visual Studio 2010\Projects\ListasPesquisa\Backup\ListasPesquisa.suo">
+</Event><Event ErrorLevel="1" Project="ListasPesquisa" Source="http://localhost/ListasPesquisa/ListasPesquisa.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="ListasPesquisa.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ListasPesquisa.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ListasPesquisa" Source="Global.asax.vb.old" Description="backup file created">
+</Event><Event ErrorLevel="3" Project="ListasPesquisa" Source="Global.asax.vb" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ListasPesquisa.vbproj" Source="ListasPesquisa.vbproj" Description="Configuring the virtual directory for ASP.NET 4.0 failed. You may need to manually configure this site for ASP.NET 4.0 in order for your site to run correctly.">
+</Event><Event ErrorLevel="3" Project="ListasPesquisa" Source="ListasPesquisa.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ListasPesquisa" Source="ListasPesquisa.vbproj" Description="You have completed the first step in converting your Visual Studio .NET 2003 web project. To complete the conversion, please select your project in the Solution Explorer and choose the 'Convert to Web Application' context menu item.">
+</Event></UpgradeLog>

@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\ListasPesquisa.dll.config
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\ListasPesquisa.dll
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\ListasPesquisa.pdb
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\ListasPesquisa.xml
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\Registro.dll
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\Registro.pdb
+C:\inetpub\wwwroot\ListasPesquisa\bin\x86\Debug\Registro.xml
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.consulta_cid.resources
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.Global.resources
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.WebForm1.resources
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.dll
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.xml
+C:\inetpub\wwwroot\ListasPesquisa\obj\x86\Debug\ListasPesquisa.pdb

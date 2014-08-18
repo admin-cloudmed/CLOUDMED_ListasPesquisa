@@ -1,0 +1,511 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ListasPesquisa
+</name>
+</assembly>
+<members>
+<member name="F:ListasPesquisa.WebForm1.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.controlador">
+	<summary>
+controlador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.capitulos">
+	<summary>
+capitulos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.descricao">
+	<summary>
+descricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.LIST_CAPITULO">
+	<summary>
+LIST_CAPITULO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.LIST_AGRUPAMENTO">
+	<summary>
+LIST_AGRUPAMENTO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.list_cid_3">
+	<summary>
+list_cid_3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.list_cid_4">
+	<summary>
+list_cid_4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.numero_cid">
+	<summary>
+numero_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.capitulo_cid">
+	<summary>
+capitulo_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.agrupamento_cid">
+	<summary>
+agrupamento_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.subgrupo_cid">
+	<summary>
+subgrupo_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.descricao_cid">
+	<summary>
+descricao_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.table_OK">
+	<summary>
+table_OK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Hidden1">
+	<summary>
+Hidden1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Hidden2">
+	<summary>
+Hidden2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.tbllocalizar">
+	<summary>
+tbllocalizar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.txtcodigo_cid">
+	<summary>
+txtcodigo_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.btnlocalizar">
+	<summary>
+btnlocalizar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.txtdescricao_cid">
+	<summary>
+txtdescricao_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.btnlocalizar_descricao_cid">
+	<summary>
+btnlocalizar_descricao_cid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.DataGrid1">
+	<summary>
+DataGrid1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ListasPesquisa.consulta_cid.Tableok">
+	<summary>
+Tableok control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:ListasPesquisa.DataSet1.Amb_completoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CRMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.TABESPMEDICADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.PacienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.ProntuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_BAIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_UFSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.cnae_2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_FINALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grande_GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_BaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_FinalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_SubGrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_CAPITULODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_GRUPODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.Amb_completoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CRMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.TABESPMEDICARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.PacienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.ProntuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_BAIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_UFSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.cnae_2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_FINALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grande_GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_BaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_FinalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_SubGrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_CAPITULORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_GRUPORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.Amb_completoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.AMB2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CRMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.TABESPMEDICARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.PacienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.ProntuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_BAIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_LOGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CEP_UFSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.cnae_2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CNAE_FINALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grande_GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_BaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_Grupo_FinalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CBO_SubGrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_CAPITULORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1.CID_GRUPORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ListasPesquisa.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

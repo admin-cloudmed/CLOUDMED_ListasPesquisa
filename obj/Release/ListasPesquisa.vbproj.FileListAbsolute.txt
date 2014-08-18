@@ -1,0 +1,14 @@
+C:\inetpub\wwwroot\listaspesquisa\bin\ListasPesquisa.dll
+C:\inetpub\wwwroot\listaspesquisa\bin\ListasPesquisa.xml
+C:\inetpub\wwwroot\listaspesquisa\bin\Registro.dll
+C:\inetpub\wwwroot\listaspesquisa\bin\Registro.pdb
+C:\inetpub\wwwroot\listaspesquisa\bin\Registro.xml
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ListasPesquisa.consulta_cid.resources
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ListasPesquisa.Global.resources
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ListasPesquisa.WebForm1.resources
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ListasPesquisa.dll
+C:\inetpub\wwwroot\listaspesquisa\obj\Release\ListasPesquisa.xml
+C:\inetpub\wwwroot\listaspesquisa\bin\ICSharpCode.SharpZipLib.dll

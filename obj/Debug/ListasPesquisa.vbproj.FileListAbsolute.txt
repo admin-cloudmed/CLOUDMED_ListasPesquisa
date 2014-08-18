@@ -1,0 +1,15 @@
+d:\inetpub\wwwroot\listaspesquisa\bin\ListasPesquisa.dll
+d:\inetpub\wwwroot\listaspesquisa\bin\ListasPesquisa.pdb
+d:\inetpub\wwwroot\listaspesquisa\bin\ListasPesquisa.xml
+d:\inetpub\wwwroot\listaspesquisa\bin\Registro.dll
+d:\inetpub\wwwroot\listaspesquisa\bin\Registro.pdb
+d:\inetpub\wwwroot\listaspesquisa\bin\Registro.xml
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ResolveAssemblyReference.cache
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.consulta_cid.resources
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.Global.resources
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.WebForm1.resources
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\GenerateResource.read.1.tlog
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\GenerateResource.write.1.tlog
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.dll
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.xml
+d:\inetpub\wwwroot\listaspesquisa\obj\Debug\ListasPesquisa.pdb

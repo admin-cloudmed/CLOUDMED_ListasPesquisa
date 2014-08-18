@@ -1,0 +1,315 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DataSet1" targetNamespace="http://www.tempuri.org/DataSet1.xsd" xmlns:mstns="http://www.tempuri.org/DataSet1.xsd" xmlns="http://www.tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:Locale="pt-BR">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Amb_completo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo_amb" type="xs:string" />
+              <xs:element name="descricao_amb" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AMB1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo_capitulo" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao_capitulo" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AMB2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo_subgrupo" type="xs:string" />
+              <xs:element name="descricao_subgrupo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CRM">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodCRM" type="xs:string" />
+              <xs:element name="Especialidade" type="xs:string" minOccurs="0" />
+              <xs:element name="Nome" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TABESPMEDICA">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" type="xs:int" />
+              <xs:element name="Especialidade" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Paciente">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Paciente_Codigo" type="xs:string" />
+              <xs:element name="Paciente_Nome" type="xs:string" minOccurs="0" />
+              <xs:element name="Data_Nasc" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Prontuarios">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UsuarioID" type="xs:string" />
+              <xs:element name="EventoID" type="xs:string" />
+              <xs:element name="EventoData" type="xs:dateTime" />
+              <xs:element name="XML_Bin" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CEP_BAI">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ABREV_BAI" type="xs:string" minOccurs="0" />
+              <xs:element name="CHAVE_BAI" type="xs:string" />
+              <xs:element name="CHVLOC_BAI" type="xs:string" />
+              <xs:element name="DATA_BAI" type="xs:string" minOccurs="0" />
+              <xs:element name="EXTENSO_BAI" type="xs:string" minOccurs="0" />
+              <xs:element name="OPER_BAI" type="xs:string" minOccurs="0" />
+              <xs:element name="UF_BAI" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CEP_LOC">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CEP8_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="CHAVE_LOCAL" type="xs:string" />
+              <xs:element name="DATA_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="DR_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="NOME_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="OPER_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="REOP_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="SIT_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="SUBOR_LOCA" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPO_LOCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="UF_LOCAL" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CEP_LOG">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CEP8_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="CHAVE_LOG" type="xs:string" />
+              <xs:element name="CHVBAI1_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="CHVBAI2_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="CHVLOCAL_LOG" type="xs:string" />
+              <xs:element name="CHVTIPO_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPLE_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="DATA_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="NOME_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="OPER_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="REOP_LOG" type="xs:string" minOccurs="0" />
+              <xs:element name="UF_LOG" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CEP_UFS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CHAVE_UF" type="xs:string" minOccurs="0" />
+              <xs:element name="NOME_UF" type="xs:string" minOccurs="0" />
+              <xs:element name="SIGLA_UF" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CNAE_1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_final" type="xs:string" minOccurs="0" />
+              <xs:element name="cod_inicial" type="xs:string" minOccurs="0" />
+              <xs:element name="codigo" type="xs:string" />
+              <xs:element name="DESCRICAO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cnae_2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_especie" type="xs:string" />
+              <xs:element name="DESCRICAO_ESPECIE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CNAE_FINAL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CLASSE_FSC" type="xs:string" />
+              <xs:element name="CODIGO_FSC" type="xs:string" />
+              <xs:element name="DESCRICAO_FSC" type="xs:string" minOccurs="0" />
+              <xs:element name="DV_FSC" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CBO_Grande_Grupo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CD_CBO" type="xs:string" />
+              <xs:element name="DS_TITULO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CBO_Grupo_Base">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CD_CBO" type="xs:string" />
+              <xs:element name="DS_TITULO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CBO_Grupo_Final">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CD_CBO" type="xs:string" />
+              <xs:element name="DS_TITULO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CBO_SubGrupo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CD_CBO" type="xs:string" />
+              <xs:element name="DS_TITULO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CID_3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cd_grupo_codigo" type="xs:string" />
+              <xs:element name="cd_grupo_descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CID_4">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo_cid" type="xs:string" />
+              <xs:element name="descricao_cid" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CID_CAPITULO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CAPITULO_CID_FINAL" type="xs:string" minOccurs="0" />
+              <xs:element name="CAPITULO_CID_INICIAL" type="xs:string" minOccurs="0" />
+              <xs:element name="CAPITULO_CODIGO" type="xs:string" />
+              <xs:element name="capitulo_descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CID_GRUPO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CG_CID_FINAL" type="xs:string" minOccurs="0" />
+              <xs:element name="CG_CID_INICIAL" type="xs:string" minOccurs="0" />
+              <xs:element name="CG_CODIGO" type="xs:string" minOccurs="0" />
+              <xs:element name="CG_DESCRICAO" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Amb_completo" />
+      <xs:field xpath="mstns:codigo_amb" />
+    </xs:unique>
+    <xs:unique name="AMB1_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AMB1" />
+      <xs:field xpath="mstns:descricao_capitulo" />
+    </xs:unique>
+    <xs:unique name="AMB2_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AMB2" />
+      <xs:field xpath="mstns:codigo_subgrupo" />
+    </xs:unique>
+    <xs:unique name="CRM_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CRM" />
+      <xs:field xpath="mstns:CodCRM" />
+    </xs:unique>
+    <xs:unique name="TABESPMEDICA_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TABESPMEDICA" />
+      <xs:field xpath="mstns:codigo" />
+    </xs:unique>
+    <xs:unique name="Paciente_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Paciente" />
+      <xs:field xpath="mstns:Paciente_Codigo" />
+    </xs:unique>
+    <xs:unique name="Prontuarios_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Prontuarios" />
+      <xs:field xpath="mstns:UsuarioID" />
+      <xs:field xpath="mstns:EventoID" />
+      <xs:field xpath="mstns:EventoData" />
+    </xs:unique>
+    <xs:unique name="CEP_BAI_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CEP_BAI" />
+      <xs:field xpath="mstns:CHAVE_BAI" />
+      <xs:field xpath="mstns:CHVLOC_BAI" />
+    </xs:unique>
+    <xs:unique name="CEP_LOC_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CEP_LOC" />
+      <xs:field xpath="mstns:CHAVE_LOCAL" />
+    </xs:unique>
+    <xs:unique name="CEP_LOG_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CEP_LOG" />
+      <xs:field xpath="mstns:CHAVE_LOG" />
+      <xs:field xpath="mstns:CHVLOCAL_LOG" />
+    </xs:unique>
+    <xs:unique name="CEP_UFS_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CEP_UFS" />
+      <xs:field xpath="mstns:SIGLA_UF" />
+    </xs:unique>
+    <xs:unique name="CNAE_1_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CNAE_1" />
+      <xs:field xpath="mstns:codigo" />
+    </xs:unique>
+    <xs:unique name="cnae_2_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:cnae_2" />
+      <xs:field xpath="mstns:cod_especie" />
+    </xs:unique>
+    <xs:unique name="CNAE_FINAL_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CNAE_FINAL" />
+      <xs:field xpath="mstns:CLASSE_FSC" />
+      <xs:field xpath="mstns:CODIGO_FSC" />
+    </xs:unique>
+    <xs:unique name="CBO_Grande_Grupo_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CBO_Grande_Grupo" />
+      <xs:field xpath="mstns:CD_CBO" />
+    </xs:unique>
+    <xs:unique name="CBO_Grupo_Base_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CBO_Grupo_Base" />
+      <xs:field xpath="mstns:CD_CBO" />
+    </xs:unique>
+    <xs:unique name="CBO_Grupo_Final_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CBO_Grupo_Final" />
+      <xs:field xpath="mstns:CD_CBO" />
+    </xs:unique>
+    <xs:unique name="CBO_SubGrupo_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CBO_SubGrupo" />
+      <xs:field xpath="mstns:CD_CBO" />
+    </xs:unique>
+    <xs:unique name="CID_3_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CID_3" />
+      <xs:field xpath="mstns:cd_grupo_codigo" />
+    </xs:unique>
+    <xs:unique name="CID_4_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CID_4" />
+      <xs:field xpath="mstns:codigo_cid" />
+    </xs:unique>
+    <xs:unique name="CID_CAPITULO_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CID_CAPITULO" />
+      <xs:field xpath="mstns:CAPITULO_CODIGO" />
+    </xs:unique>
+    <xs:unique name="CID_GRUPO_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CID_GRUPO" />
+      <xs:field xpath="mstns:CG_DESCRICAO" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

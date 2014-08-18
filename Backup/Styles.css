@@ -1,0 +1,235 @@
+/* Default CSS Stylesheet for a new Web Application project */
+
+BODY
+{
+    BACKGROUND-COLOR: white;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal
+}
+
+H1, H2, H3, H4, H5, TH, THEAD, TFOOT
+{
+    COLOR: #003366;
+}
+H1	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	2em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H2	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	1.75em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H3	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	1.58em;
+	font-weight:	500;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H4	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	1.33em;
+	font-weight:	500;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H5, DT	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	1em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H6	{	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:	.8em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+TFOOT, THEAD	{	
+	font-size:	1em;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+		
+TH	{	
+	vertical-align:	baseline;
+	font-size:	1em;
+	font-weight:	bold;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+
+
+A:link	{	
+	text-decoration:	underline;
+	color:	#3333cc;
+	FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    font-weight:bold; 
+	}	
+		
+A:visited	{	
+	text-decoration:	underline;
+	color:	#333399;
+	FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    font-weight:bold; 
+	}	
+		
+A:active	{	
+	text-decoration:	underline;
+	color:	royalblue;
+	FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    font-weight:bold; 
+	}	
+		
+A:hover	{	
+	text-decoration:	underline;
+	FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    font-weight:bold;
+    color:Navy ;  
+	}
+	
+SMALL	{	
+	font-size:	.7em;
+	}	
+
+BIG	{	
+	font-size:	1.17em;
+	}	
+
+BLOCKQUOTE, PRE	{	
+	font-family:	Courier New, monospace;
+	}	
+	
+
+UL LI	{	
+	list-style-type:	square ;
+	}	
+
+UL LI LI	{	
+	list-style-type:	disc;
+	}	
+
+UL LI LI LI	{	
+	list-style-type:	circle;
+	}	
+	
+OL LI	{	
+	list-style-type:	decimal;
+	}	
+
+OL OL LI	{	
+	list-style-type:	lower-alpha;
+	}	
+
+OL OL OL LI	{	
+	list-style-type:	lower-roman;
+	}	
+
+IMG 	{
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	}
+	
+	.TableSimples
+	{
+		FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+	}
+	
+	.txttransparente
+{
+	background-color:transparent;
+	border-style:none;
+	font-family:Tahoma;
+	font-size:8pt;
+	}
+	
+		.txt
+{
+	
+	border-style:solid;
+	font-family:Tahoma;
+	font-size:8pt;
+	}
+	
+		.txtnegrito
+{
+	background-color:transparent;
+	border-style:none;
+	font-family:Tahoma;
+	font-size:8pt;
+	font-weight:bold;
+	}
+	
+		.separador
+{
+	background-color:royalBlue;
+	font-family:Tahoma;
+	color:White; 
+	font-size:8pt;
+	font-weight:bold;
+	}
+	
+	.Grid
+{
+	font-family:Tahoma;
+	font-size:8pt ;
+	border-style:solid ;
+	border-width:0; 
+	border-bottom-color:whitesmoke;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-top-color:whitesmoke;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-left-color:whitesmoke;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:whitesmoke;
+	border-right-style:solid;
+	border-right-width:1px;
+}

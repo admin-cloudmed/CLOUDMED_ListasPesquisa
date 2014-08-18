@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\Instaladores\ListasPesquisa" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Criar Instalador" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/18/2012 17:33:50" />
+    <file relUrl="WebForm1.aspx" publishTime="01/22/2010 16:16:32" />
+    <file relUrl="CID.aspx" publishTime="06/18/2012 18:53:46" />
+    <file relUrl="bin/Registro.pdb" publishTime="08/21/2012 17:15:55" />
+    <file relUrl="Styles.css" publishTime="01/22/2010 16:16:32" />
+    <file relUrl="bin/ListasPesquisa.dll" publishTime="11/16/2012 14:16:10" />
+    <file relUrl="bin/Registro.dll" publishTime="11/05/2012 16:35:58" />
+    <file relUrl="bin/ListasPesquisa.xml" publishTime="11/16/2012 14:16:10" />
+    <file relUrl="bin/ListasPesquisa.pdb" publishTime="11/16/2012 14:16:10" />
+    <file relUrl="DataSet1.xsd" publishTime="01/22/2010 16:16:32" />
+    <file relUrl="Global.asax" publishTime="01/22/2010 16:16:32" />
+    <file relUrl="bin/Registro.xml" publishTime="11/05/2012 16:35:58" />
+    <file relUrl="bin/ICSharpCode.SharpZipLib.dll" publishTime="08/21/2012 17:15:36" />
+  </publishProfile>
+</publishData>

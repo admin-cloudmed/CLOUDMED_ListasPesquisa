@@ -1,0 +1,703 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Registro
+</name>
+</assembly>
+<members>
+<member name="T:Registro.DSRelacionamentos.RelacionamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelacionamentosRegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelatorioRelacionamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelacionamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelacionamentosRegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelatorioRelacionamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelacionamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelacionamentosRegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRelacionamentos.RelatorioRelacionamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRelacionamentos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroDadosBasicosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.EnderecoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCredenciadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesTecnicoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RelacaoRegistrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ContatoBasicoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DadosBancariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.IEPC_DetalhesAuditorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMACartoesTecnicoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCelulaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaPontoDeVendaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebGrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebTerminalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesGrupoPLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSDetalhesPrestadorEspecialidadeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.gedDocumentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PedidoOrcamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ValoresFornecidosFornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoPedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutosSolicitadosPedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.XMLProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAGerenciadoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSLocalAtendimentoDetalhesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSPrestadorDetalhesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesFornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CRMDetalhesRegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.GedWebDetalhesBeneficiarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativosGrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebFrameworkGrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_CidadesAtendidasCredenciadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradora1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoItemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ImagensOcorrenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DivergenciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAConfiguracaoOSCredenciadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DetalhesLoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesLocalAtendimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasEspecialidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesCompradorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroDadosBasicosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.EnderecoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCredenciadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesTecnicoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RelacaoRegistrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ContatoBasicoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DadosBancariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.IEPC_DetalhesAuditorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMACartoesTecnicoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCelulaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaPontoDeVendaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebGrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebTerminalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesGrupoPLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSDetalhesPrestadorEspecialidadeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.gedDocumentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PedidoOrcamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ValoresFornecidosFornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoPedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutosSolicitadosPedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.XMLProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAGerenciadoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSLocalAtendimentoDetalhesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSPrestadorDetalhesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesFornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.CRMDetalhesRegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.GedWebDetalhesBeneficiarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativosGrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebFrameworkGrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_CidadesAtendidasCredenciadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradora1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoItemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.ImagensOcorrenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DivergenciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAConfiguracaoOSCredenciadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.DetalhesLoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesLocalAtendimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasEspecialidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesCompradorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.RegistroDadosBasicosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.EnderecoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCredenciadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesTecnicoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.RelacaoRegistrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.ContatoBasicoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.DadosBancariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.IEPC_DetalhesAuditorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMACartoesTecnicoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_DetalhesCelulaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesEmpresaPontoDeVendaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebGrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebTerminalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.CardDetalhesGrupoPLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSDetalhesPrestadorEspecialidadeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.gedDocumentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.PedidoOrcamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.ValoresFornecidosFornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoPedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutosSolicitadosPedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.XMLProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAGerenciadoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSLocalAtendimentoDetalhesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SASSPrestadorDetalhesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesFornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.CRMDetalhesRegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.GedWebDetalhesBeneficiarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebAplicativosGrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.WalkWebFrameworkGrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMA_CidadesAtendidasCredenciadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMADetalhesAdministradora1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.HistoricoItemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.ImagensOcorrenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.DivergenciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.SIGMAConfiguracaoOSCredenciadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.DetalhesLoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesLocalAtendimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasEspecialidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro.PortalComprasDetalhesCompradorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRegistro">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Registro.DSHistorico.HistoricoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSHistorico.XMLHistoricoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSHistorico.AnexosOcorrenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSHistorico.HistoricoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSHistorico.XMLHistoricoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSHistorico.AnexosOcorrenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSHistorico.HistoricoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSHistorico.XMLHistoricoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSHistorico.AnexosOcorrenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSHistorico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Registro.DSRSS.rssDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRSS.channelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRSS.imageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRSS.itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRSS.CommentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSRSS.rssRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRSS.channelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRSS.imageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRSS.itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRSS.CommentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSRSS.rssRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRSS.channelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRSS.imageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRSS.itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRSS.CommentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSRSS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Registro.DSCompromissos.CompromissoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Registro.DSCompromissos.CompromissoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Registro.DSCompromissos.CompromissoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Registro.DSCompromissos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
